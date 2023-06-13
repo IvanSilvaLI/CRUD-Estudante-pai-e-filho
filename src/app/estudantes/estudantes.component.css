@@ -1,0 +1,9 @@
+.bg-light-purple {
+  background-color: #e2d6ff;
+}
+
+.max-w-500 {
+  max-width: 1200px;
+  min-width: 800px;
+  margin: 0 auto;
+}
